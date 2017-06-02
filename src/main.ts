@@ -9,3 +9,5 @@ if (environment.production) {
 }
 
 platformBrowserDynamic().bootstrapModule(GtSaudeCommonModule);
+
+export * from './app/services/messages.service';
