@@ -1,6 +1,6 @@
 {
   "name": "gtsaude-common",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
@@ -43,5 +43,19 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagocsfoz/gtsaude-common.git"
+  },
+  "keywords": [
+    "gtsaude"
+  ],
+  "author": "Thiago Chaves Santos <thiagocsfoz@gmail.com> (https://github.com/thiagocsfoz)",
+  "bugs": {
+    "url": "https://github.com/thiagocsfoz/gtsaude-common/issues"
+  },
+  "homepage": "https://github.com/thiagocsfoz/gtsaude-common#readme"
 }
